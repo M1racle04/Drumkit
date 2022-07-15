@@ -3,4 +3,4 @@ An CSS, HTML and JS project which allows user to play audio through keyboard pre
 
 Unleash your inner musician with this drumkit.
 
-Click here to view 
+Click here to view : https://m1racle04.github.io/Drumkit/
